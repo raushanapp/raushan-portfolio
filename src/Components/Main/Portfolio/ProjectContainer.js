@@ -4,7 +4,7 @@ import whakaariSm from "../../../Assets/img/Portfolio items/bigbasket.png";
 import whakaariLg from "../../../Assets/img/Portfolio items/bigbasket.png";
 import pounamunuiSm from "../../../Assets/img/Portfolio items/croma1.png";
 import pounamunuiLg from "../../../Assets/img/Portfolio items/croma2.png";
-import newsAggregator from "../../../Assets/img/Portfolio items/j.crew1.png";
+import newsAggregator from "../../../Assets/img/Portfolio items/rentomojo.png";
 import spacexSm from "../../../Assets/img/Portfolio items/j.crew2.png";
 import spacexLg from "../../../Assets/img/Portfolio items/LakmeIndia1.png";
 
@@ -14,6 +14,10 @@ import styles from "./ProjectContainer.module.css";
 
 
 import html from "../../../Assets/img/logos/html.svg";
+import react from "../../../Assets/img/logos/react.svg";
+import redux from "../../../Assets/img/logos/redux.svg";
+import json from "../../../Assets/img/logos/json-5.svg";
+// import chakra from "../../../Assets/img/logos/chakra.svg";
 import css from "../../../Assets/img/logos/css.svg";
 import js from "../../../Assets/img/logos/js.svg";
 // import react from "../../../Assets/img/logos/react.svg";
@@ -58,14 +62,14 @@ const ProjectContainer = () => {
         },
         {
             image: [newsAggregator, newsAggregator],
-            alt: "J.Crew web clone",
-            heading: "J.crew web clone",
-            p1: "This is a clone of J.Crew.com, where we have used HTML, CSS, and Javascript to achieve this.",
-            l1: "https://github.com/raushanapp/jCrewProjectUnit3.git",
+            alt: "Rentomojo web clone",
+            heading: "Rentomojo web clone",
+            p1: "This is a clone of Rentomojo.com, where we have used HTML, Chakra-ui,React,Redux,React-Redux,Json-server and Javascript to achieve this.",
+            l1: "https://github.com/psnarkhede/cruel-scale-8764.git",
             a1: "Github page for a project.",
-            l2: "https://naughty-roentgen-0c5b89.netlify.app/",
-            a2: "J.Crew.com_web_clone",
-            tech:[html,css,js],
+            l2: "https://clone-rentomojo.netlify.app/",
+            a2: "Rentomojo.com_web_clone",
+            tech:[html,css,js,react,redux,json],
         },
     ];
     return (
