@@ -5,7 +5,7 @@ import whakaariLg from "../../../Assets/img/Portfolio items/bigbasket.png";
 import pounamunuiSm from "../../../Assets/img/Portfolio items/croma1.png";
 import pounamunuiLg from "../../../Assets/img/Portfolio items/croma2.png";
 import newsAggregator from "../../../Assets/img/Portfolio items/rentomojo.png";
-import spacexSm from "../../../Assets/img/Portfolio items/j.crew2.png";
+import spacexSm from "../../../Assets/img/Portfolio items/rentomojo1.png";
 import spacexLg from "../../../Assets/img/Portfolio items/LakmeIndia1.png";
 
 import ProjectItem from "./ProjectItem";
